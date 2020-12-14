@@ -1,3 +1,3 @@
 # Lending Club Loan Analysis
 # Good or Bad Loan Classification
-# Text Mining Analysis
+# "Loan_Disc" field - Text Mining Analysis
